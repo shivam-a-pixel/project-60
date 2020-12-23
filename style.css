@@ -8,7 +8,7 @@ body
   background: linear-gradient(#3E2723 0%,#212121 100%);
   background-repeat:no-repeat;
 }
-img
+lol
 {
   border-radius:50%;
   width:100px;
@@ -74,4 +74,13 @@ button
 #channel
 {
    font-size:100px;
+}
+#pic
+{
+    transition: transform .2s;
+    border: 10px solid #AAAAAART;
+}
+#pic:hover
+{
+    transform: scale(0.9);
 }
